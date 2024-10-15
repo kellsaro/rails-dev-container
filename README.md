@@ -1,4 +1,4 @@
-# DEVCONTAINER
+# Custom devcontainer for Rails 7
 
 This is a devcontainer folder with little modifications, following [EvilMartians System of a Test blog post](https://evilmartians.com/chronicles/system-of-a-test-setting-up-end-to-end-rails-testing):
 
